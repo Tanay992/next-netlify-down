@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Shop The Arena</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/STA-logo.png" />
       </Head>
 
       <main>
