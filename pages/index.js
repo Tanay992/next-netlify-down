@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Shop The Arena is currently down for maintenance" />
         <p className="description">
-          Hi, our website is currently down for maintenance. Our team is working to get it back up running ASAP.
+          Our team is working to get it back up running ASAP.
           In the meantime, you can contact us on contact@shopthearena.com if you need any assistance.
         </p>
       </main>
