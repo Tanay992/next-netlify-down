@@ -12,10 +12,9 @@ export default function Home() {
 
       <main>
         <Header
-          title="Shop The Arena is currently down for maintenance"
-          style="padding-left:5px; padding-right: 5px;"
+          title="Shop The Arena is currently down for maintenance" style="padding-left: 5px; padding-right: 5px;"
         />
-        <p className="description" style="padding-left:5px; padding-right: 5px;">
+        <p className="description" style="padding-left: 5px; padding-right: 5px;">
           <div>Our team is working to get it back up running ASAP.</div>
           In the meantime, you can contact us on contact@shopthearena.com if you
           need any assistance.
