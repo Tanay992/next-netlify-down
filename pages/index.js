@@ -6,14 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Shop The Arena</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Shop The Arena is currently down for maintenance" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hi, our website is currently down for maintenance. Our team is working to get it back up running ASAP.
+          In the meantime, you can contact us on contact@shopthearena.com if you need any assistance.
         </p>
       </main>
 
